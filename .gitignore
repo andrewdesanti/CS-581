@@ -2,6 +2,6 @@ keys.txt
 youtube.py
 *.pdf
 *.docx
-*.csv
+#*.csv
 *.png
 *.zip
